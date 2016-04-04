@@ -1,2 +1,2 @@
 # Machine-Learning
-I will putting all my ML projects in this directory
+Exercise solutions - Machine-Learning by Andrew Ng (Stanford)
